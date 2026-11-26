@@ -1,0 +1,4 @@
+Explanation:
+Git shows that index.html is an untracked file.
+The file exists in my local repository, but it
+has not been added to the staging area yet.

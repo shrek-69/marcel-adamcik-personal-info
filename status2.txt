@@ -1,0 +1,4 @@
+Explanation:
+Compared to status1.txt, index.html is now staged.
+It is ready to be included in the next commit.
+The status1.txt file is still untracked.

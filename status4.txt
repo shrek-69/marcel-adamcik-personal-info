@@ -1,0 +1,5 @@
+Explanation:
+My local branch is now up to date with the remote
+branch. The commit containing index.html has been
+successfully pushed to GitHub. The status files
+are still untracked.

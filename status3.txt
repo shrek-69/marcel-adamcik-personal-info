@@ -1,0 +1,5 @@
+Explanation:
+The index.html file has been committed to the local
+repository. My local branch is one commit ahead of
+the remote branch. The commit has not been pushed
+to GitHub yet.
